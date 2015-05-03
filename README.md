@@ -1,3 +1,3 @@
 # NDL
 
-[![Build Status](https://travis-ci.org/mguzmann/NDL.jl.svg?branch=master)](https://travis-ci.org/mguzmann/NDL.jl)
+This is a going to be a version of Naive Discriminative Learning in Julia. The aim is to build a library to easily train NDL learning models.
